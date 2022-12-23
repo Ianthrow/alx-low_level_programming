@@ -1,1 +1,1 @@
-more pointer
+more strings
